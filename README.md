@@ -1,6 +1,6 @@
-HR-Dashboard-MySQL-PowerBI
+#**HR-Dashboard-MySQL-PowerBI**
 
-Data Used
+##**Data Used**
 
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
@@ -39,5 +39,6 @@ The average tenure for each department is about 8 years with Legal and Auditing 
 
 
 Limitations
+____________________________________________________________________________________________________
 Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
 Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
